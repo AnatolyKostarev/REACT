@@ -1,0 +1,48 @@
+{
+"cards": [
+    {
+      "icon": "/img/owl.png",
+      "text": "Работа 24 часа в сутки, 7 дней в неделю, 365 дней в году"
+    },
+  
+    {
+      "icon": "/img/Map_Location.png",
+      "text": "Нет географических границ"
+    },
+  
+    {
+      "icon": "/img/Like.png",
+      "text": "Ассортимент"
+    },
+  
+    {
+      "icon": "/img/helmet.png",
+      "text": "Безопасность"
+    },
+  
+    {
+      "icon": "/img/costs.png",
+      "text": "Сокращение расходов на аренду и персонал"
+    },
+  
+    {
+      "icon": "/img/handshake.png",
+      "text": "Партнерские отношения"
+    },
+  
+    {
+      "icon": "/img/cell.png",
+      "text": "Покупатель всегда на связи"
+    },
+  
+    {
+      "icon": "/img/comment.png",
+      "text": "Комфортный выбор"
+    },
+  
+    {
+      "icon": "/img/card.png",
+      "text": "Удобство оплаты"
+    }
+  ]
+}
